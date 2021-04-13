@@ -1,0 +1,650 @@
+,Country_Other,Distance,Neigbour
+0,Abkhazia,141.0,Georgia
+1,Abkhazia,241.0,Russia
+2,Afghanistan,0.0,India
+3,Afghanistan,935.0,Iran
+4,Afghanistan,0.0,Kashmir
+5,Afghanistan,2430.0,Pakistan
+6,Afghanistan,76.0,People's Republic of China
+7,Afghanistan,1206.0,Tajikistan
+8,Afghanistan,744.0,Turkmenistan
+9,Afghanistan,137.0,Uzbekistan
+10,Albania,282.0,Greece
+11,Albania,0.0,Kosovo
+12,Albania,172.0,Montenegro
+13,Albania,151.0,North Macedonia
+14,Algeria,982.0,Libya
+15,Algeria,1376.0,Mali
+16,Algeria,463.0,Mauritania
+17,Algeria,1559.0,Morocco
+18,Algeria,956.0,Niger
+19,Algeria,1010.0,Tunisia
+20,Algeria,0.0,Western Sahara
+21,Andorra,57.0,France
+22,Andorra,64.0,Spain
+23,Argentina,832.0,Bolivia
+24,Argentina,1224.0,Brazil
+25,Argentina,0.0,Chile
+26,Argentina,1880.0,Paraguay
+27,Argentina,579.0,Uruguay
+28,Armenia,0.0,Azerbaijan
+29,Armenia,164.0,Georgia
+30,Armenia,35.0,Iran
+31,Armenia,268.0,Turkey
+32,Austria,362.0,Czech Republic
+33,Austria,784.0,Germany
+34,Austria,366.0,Hungary
+35,Austria,430.0,Italy
+36,Austria,34.0,Liechtenstein
+37,Austria,91.0,Slovakia
+38,Austria,330.0,Slovenia
+39,Austria,0.0,Switzerland
+40,Azerbaijan,0.0,Armenia
+41,Azerbaijan,322.0,Georgia
+42,Azerbaijan,0.0,Iran
+43,Azerbaijan,284.0,Russia
+44,Azerbaijan,0.0,Turkey
+45,Bangladesh,0.0,India
+46,Bangladesh,193.0,Myanmar
+47,Belarus,141.0,Latvia
+48,Belarus,502.0,Lithuania
+49,Belarus,407.0,Poland
+50,Belarus,959.0,Russia
+51,Belarus,891.0,Ukraine
+52,Belgium,620.0,France
+53,Belgium,0.0,Germany
+54,Belgium,148.0,Luxembourg
+55,Belgium,0.0,Netherlands
+56,Belize,266.0,Guatemala
+57,Belize,250.0,Mexico
+58,Benin,306.0,Burkina Faso
+59,Benin,266.0,Niger
+60,Benin,773.0,Nigeria
+61,Benin,644.0,Togo
+62,Bhutan,605.0,India
+63,Bhutan,470.0,People's Republic of China
+64,Bolivia,832.0,Argentina
+65,Bolivia,3400.0,Brazil
+66,Bolivia,861.0,Chile
+67,Bolivia,750.0,Paraguay
+68,Bolivia,900.0,Peru
+69,Bosnia and Herzegovina,0.0,Croatia
+70,Bosnia and Herzegovina,225.0,Montenegro
+71,Bosnia and Herzegovina,0.0,Serbia
+72,Botswana,1360.0,Namibia
+73,Botswana,1840.0,South Africa
+74,Botswana,0.0,Zambia
+75,Botswana,813.0,Zimbabwe
+76,Brazil,1224.0,Argentina
+77,Brazil,3400.0,Bolivia
+78,Brazil,1643.0,Colombia
+79,Brazil,673.0,France
+80,Brazil,0.0,French Guiana
+81,Brazil,1119.0,Guyana
+82,Brazil,1290.0,Paraguay
+83,Brazil,1560.0,Peru
+84,Brazil,597.0,Suriname
+85,Brazil,985.0,Uruguay
+86,Brazil,2200.0,Venezuela
+87,Brunei,0.0,Malaysia
+88,Bulgaria,494.0,Greece
+89,Bulgaria,148.0,North Macedonia
+90,Bulgaria,608.0,Romania
+91,Bulgaria,318.0,Serbia
+92,Bulgaria,240.0,Turkey
+93,Burkina Faso,306.0,Benin
+94,Burkina Faso,584.0,Côte d'Ivoire
+95,Burkina Faso,549.0,Ghana
+96,Burkina Faso,1000.0,Mali
+97,Burkina Faso,628.0,Niger
+98,Burkina Faso,126.0,Togo
+99,Burundi,233.0,Democratic Republic of the Congo
+100,Burundi,290.0,Rwanda
+101,Burundi,451.0,Tanzania
+102,Cambodia,541.0,Laos
+103,Cambodia,803.0,Thailand
+104,Cambodia,1228.0,Vietnam
+105,Cameroon,797.0,Central African Republic
+106,Cameroon,1094.0,Chad
+107,Cameroon,189.0,Equatorial Guinea
+108,Cameroon,298.0,Gabon
+109,Cameroon,1690.0,Nigeria
+110,Cameroon,523.0,Republic of the Congo
+111,Canada,0.0,United States
+112,Central African Republic,797.0,Cameroon
+113,Central African Republic,1197.0,Chad
+114,Central African Republic,1577.0,Democratic Republic of the Congo
+115,Central African Republic,467.0,Republic of the Congo
+116,Central African Republic,682.0,South Sudan
+117,Central African Republic,483.0,Sudan
+118,Chad,1094.0,Cameroon
+119,Chad,1197.0,Central African Republic
+120,Chad,1055.0,Libya
+121,Chad,1175.0,Niger
+122,Chad,87.0,Nigeria
+123,Chad,1360.0,Sudan
+124,Chile,0.0,Argentina
+125,Chile,861.0,Bolivia
+126,Chile,160.0,Peru
+127,Colombia,1643.0,Brazil
+128,Colombia,590.0,Ecuador
+129,Colombia,225.0,Panama
+130,Colombia,1496.0,Peru
+131,Colombia,2050.0,Venezuela
+132,Costa Rica,309.0,Nicaragua
+133,Costa Rica,330.0,Panama
+134,Côte d'Ivoire,584.0,Burkina Faso
+135,Côte d'Ivoire,668.0,Ghana
+136,Côte d'Ivoire,610.0,Guinea
+137,Côte d'Ivoire,716.0,Liberia
+138,Côte d'Ivoire,532.0,Mali
+139,Croatia,0.0,Bosnia and Herzegovina
+140,Croatia,329.0,Hungary
+141,Croatia,25.0,Montenegro
+142,Croatia,241.0,Serbia
+143,Croatia,670.0,Slovenia
+144,Cyprus,0.0,Akrotiri and Dhekelia
+145,Cyprus,0.0,United Kingdom
+146,Czech Republic,362.0,Austria
+147,Czech Republic,815.0,Germany
+148,Czech Republic,658.0,Poland
+149,Czech Republic,215.0,Slovakia
+150,Democratic Republic of the Congo,0.0,Angola
+151,Democratic Republic of the Congo,233.0,Burundi
+152,Democratic Republic of the Congo,1577.0,Central African Republic
+153,Democratic Republic of the Congo,2410.0,Republic of the Congo
+154,Democratic Republic of the Congo,217.0,Rwanda
+155,Democratic Republic of the Congo,628.0,South Sudan
+156,Democratic Republic of the Congo,459.0,Tanzania
+157,Democratic Republic of the Congo,765.0,Uganda
+158,Democratic Republic of the Congo,1930.0,Zambia
+159,Denmark,68.0,Germany
+160,Djibouti,125.0,Eritrea
+161,Djibouti,342.0,Ethiopia
+162,Djibouti,0.0,Somaliland
+163,Dominican Republic,360.0,Haiti
+164,East Timor,0.0,Indonesia
+165,Ecuador,590.0,Colombia
+166,Ecuador,1420.0,Peru
+167,Egypt,266.0,Israel
+168,Egypt,1115.0,Libya
+169,Egypt,1273.0,Sudan
+170,El Salvador,203.0,Guatemala
+171,El Salvador,342.0,Honduras
+172,Equatorial Guinea,189.0,Cameroon
+173,Equatorial Guinea,350.0,Gabon
+174,Eritrea,125.0,Djibouti
+175,Eritrea,912.0,Ethiopia
+176,Eritrea,605.0,Sudan
+177,Estonia,339.0,Latvia
+178,Estonia,294.0,Russia
+179,Eswatini,105.0,Mozambique
+180,Eswatini,430.0,South Africa
+181,Ethiopia,342.0,Djibouti
+182,Ethiopia,912.0,Eritrea
+183,Ethiopia,861.0,Kenya
+184,Ethiopia,1600.0,Somalia
+185,Ethiopia,883.0,South Sudan
+186,Ethiopia,723.0,Sudan
+187,Finland,736.0,Norway
+188,Finland,0.0,Russia
+189,Finland,0.0,Sweden
+190,Gabon,298.0,Cameroon
+191,Gabon,350.0,Equatorial Guinea
+192,Gabon,1903.0,Republic of the Congo
+193,Georgia,141.0,Abkhazia
+194,Georgia,164.0,Armenia
+195,Georgia,322.0,Azerbaijan
+196,Georgia,723.0,Russia
+197,Georgia,334.0,South Ossetia
+198,Georgia,252.0,Turkey
+199,Germany,784.0,Austria
+200,Germany,0.0,Belgium
+201,Germany,815.0,Czech Republic
+202,Germany,68.0,Denmark
+203,Germany,451.0,France
+204,Germany,138.0,Luxembourg
+205,Germany,577.0,Netherlands
+206,Germany,456.0,Poland
+207,Germany,0.0,Switzerland
+208,Ghana,549.0,Burkina Faso
+209,Ghana,668.0,Côte d'Ivoire
+210,Ghana,877.0,Togo
+211,Greece,282.0,Albania
+212,Greece,494.0,Bulgaria
+213,Greece,246.0,North Macedonia
+214,Greece,206.0,Turkey
+215,Guatemala,266.0,Belize
+216,Guatemala,203.0,El Salvador
+217,Guatemala,256.0,Honduras
+218,Guatemala,962.0,Mexico
+219,Guinea,610.0,Côte d'Ivoire
+220,Guinea,386.0,Guinea-Bissau
+221,Guinea,563.0,Liberia
+222,Guinea,858.0,Mali
+223,Guinea,330.0,Senegal
+224,Guinea,652.0,Sierra Leone
+225,Guinea-Bissau,386.0,Guinea
+226,Guinea-Bissau,338.0,Senegal
+227,Guyana,1119.0,Brazil
+228,Guyana,600.0,Suriname
+229,Guyana,743.0,Venezuela
+230,Haiti,360.0,Dominican Republic
+231,Honduras,342.0,El Salvador
+232,Honduras,256.0,Guatemala
+233,Honduras,922.0,Nicaragua
+234,Hong Kong,30.0,People's Republic of China
+235,Hungary,366.0,Austria
+236,Hungary,329.0,Croatia
+237,Hungary,443.0,Romania
+238,Hungary,151.0,Serbia
+239,Hungary,677.0,Slovakia
+240,Hungary,102.0,Slovenia
+241,Hungary,103.0,Ukraine
+242,India,0.0,Adam's bridge
+243,India,4053.0,Bangladesh
+244,India,605.0,Bhutan
+245,India,0.0,Borders of India
+246,India,1463.0,Myanmar
+247,India,1690.0,Nepal
+248,India,2912.0,Pakistan
+249,India,3380.0,People's Republic of China
+250,India,0.0,Sri Lanka
+251,Indonesia,0.0,East Timor
+252,Indonesia,1782.0,Malaysia
+253,Indonesia,820.0,Papua New Guinea
+254,Iran,936.0,Afghanistan
+255,Iran,35.0,Armenia
+256,Iran,0.0,Azerbaijan
+257,Iran,1458.0,Iraq
+258,Iran,909.0,Pakistan
+259,Iran,499.0,Turkey
+260,Iran,992.0,Turkmenistan
+261,Iraq,1458.0,Iran
+262,Iraq,181.0,Jordan
+263,Iraq,240.0,Kuwait
+264,Iraq,814.0,Saudi Arabia
+265,Iraq,605.0,Syria
+266,Iraq,352.0,Turkey
+267,Ireland,499.0,United Kingdom
+268,Israel,238.0,Jordan
+269,Israel,79.0,Lebanon
+270,Israel,76.0,Syria
+271,Israel,0.0,state of Palestine
+272,Israel,0.0,state of palestine
+273,Israel,0.0,West Bank
+274,Italy,430.0,Austria
+275,Italy,488.0,France
+276,Italy,39.0,San Marino
+277,Italy,232.0,Slovenia
+278,Italy,0.0,Switzerland
+279,Italy,3.0,Vatican City
+280,Jordan,181.0,Iraq
+281,Jordan,238.0,Israel
+282,Jordan,744.0,Saudi Arabia
+283,Jordan,0.0,State of Palestine
+284,Jordan,375.0,Syria
+285,Jordan,0.0,West Bank
+286,Kazakhstan,1051.0,Kyrgyzstan
+287,Kazakhstan,1533.0,People's Republic of China
+288,Kazakhstan,6846.0,Russia
+289,Kazakhstan,379.0,Turkmenistan
+290,Kazakhstan,2203.0,Uzbekistan
+291,Kenya,861.0,Ethiopia
+292,Kenya,682.0,Somalia
+293,Kenya,232.0,South Sudan
+294,Kenya,769.0,Tanzania
+295,Kenya,933.0,Uganda
+296,Kosovo,112.0,Albania
+297,Kosovo,79.0,Montenegro
+298,Kosovo,159.0,North Macedonia
+299,Kosovo,352.0,Serbia
+300,Kuwait,240.0,Iraq
+301,Kuwait,222.0,Saudi Arabia
+302,Kyrgyzstan,1051.0,Kazakhstan
+303,Kyrgyzstan,858.0,People's Republic of China
+304,Kyrgyzstan,0.0,Tajikistan
+305,Kyrgyzstan,0.0,Uzbekistan
+306,Laos,541.0,Cambodia
+307,Laos,235.0,Myanmar
+308,Laos,423.0,People's Republic of China
+309,Laos,1754.0,Thailand
+310,Laos,2130.0,Vietnam
+311,Latvia,141.0,Belarus
+312,Latvia,339.0,Estonia
+313,Latvia,453.0,Lithuania
+314,Latvia,217.0,Russia
+315,Lebanon,79.0,Israel
+316,Lebanon,375.0,Syria
+317,Lesotho,909.0,South Africa
+318,Liberia,716.0,Côte d'Ivoire
+319,Liberia,563.0,Guinea
+320,Liberia,306.0,Sierra Leone
+321,Libya,982.0,Algeria
+322,Libya,1055.0,Chad
+323,Libya,1115.0,Egypt
+324,Libya,354.0,Niger
+325,Libya,383.0,Sudan
+326,Libya,459.0,Tunisia
+327,Liechtenstein,34.0,Austria
+328,Liechtenstein,41.0,Switzerland
+329,Lithuania,502.0,Belarus
+330,Lithuania,453.0,Latvia
+331,Lithuania,91.0,Poland
+332,Lithuania,0.0,Russia
+333,Luxembourg,148.0,Belgium
+334,Luxembourg,73.0,France
+335,Luxembourg,138.0,Germany
+336,Macau,0.0,People's Republic of China
+337,Malawi,1569.0,Mozambique
+338,Malawi,475.0,Tanzania
+339,Malawi,837.0,Zambia
+340,Malaysia,0.0,Brunei
+341,Malaysia,1782.0,Indonesia
+342,Malaysia,506.0,Thailand
+343,Mali,1376.0,Algeria
+344,Mali,1000.0,Burkina Faso
+345,Mali,532.0,Côte d'Ivoire
+346,Mali,858.0,Guinea
+347,Mali,2237.0,Mauritania
+348,Mali,821.0,Niger
+349,Mali,419.0,Senegal
+350,Mauritania,463.0,Algeria
+351,Mauritania,2237.0,Mali
+352,Mauritania,813.0,Senegal
+353,Mauritania,0.0,Western Sahara
+354,Mexico,250.0,Belize
+355,Mexico,962.0,Guatemala
+356,Mexico,3141.0,United States
+357,Moldova,450.0,Romania
+358,Moldova,939.0,Ukraine
+359,Monaco,4.0,France
+360,Mongolia,4677.0,People's Republic of China
+361,Mongolia,3485.0,Russia
+362,Montenegro,172.0,Albania
+363,Montenegro,225.0,Bosnia and Herzegovina
+364,Montenegro,25.0,Croatia
+365,Montenegro,0.0,Kosovo
+366,Montenegro,124.0,Serbia
+367,Morocco,1559.0,Algeria
+368,Morocco,0.0,Spain
+369,Morocco,0.0,Western Sahara
+370,Mozambique,105.0,Eswatini (Swaziland)
+371,Mozambique,1569.0,Malawi
+372,Mozambique,0.0,South Africa
+373,Mozambique,756.0,Tanzania
+374,Mozambique,419.0,Zambia
+375,Mozambique,1231.0,Zimbabwe
+376,Myanmar,193.0,Bangladesh
+377,Myanmar,1463.0,India
+378,Myanmar,235.0,Laos
+379,Myanmar,2185.0,People's Republic of China
+380,Myanmar,1800.0,Thailand
+381,Namibia,1376.0,Angola
+382,Namibia,1360.0,Botswana
+383,Namibia,967.0,South Africa
+384,Namibia,233.0,Zambia
+385,Nepal,1690.0,India
+386,Nepal,1236.0,People's Republic of China
+387,Nicaragua,309.0,Costa Rica
+388,Nicaragua,922.0,Honduras
+389,Niger,956.0,Algeria
+390,Niger,266.0,Benin
+391,Niger,628.0,Burkina Faso
+392,Niger,1175.0,Chad
+393,Niger,354.0,Libya
+394,Niger,821.0,Mali
+395,Niger,1497.0,Nigeria
+396,Nigeria,773.0,Benin
+397,Nigeria,1690.0,Cameroon
+398,Nigeria,87.0,Chad
+399,Nigeria,1497.0,Niger
+400,North Korea,1416.0,People's Republic of China
+401,North Korea,19.0,Russia
+402,North Korea,238.0,South Korea
+403,North Macedonia,151.0,Albania
+404,North Macedonia,148.0,Bulgaria
+405,North Macedonia,246.0,Greece
+406,North Macedonia,0.0,Kosovo
+407,North Macedonia,62.0,Serbia
+408,Norway,736.0,Finland
+409,Norway,196.0,Russia
+410,Norway,1619.0,Sweden
+411,Oman,676.0,Saudi Arabia
+412,Oman,0.0,United Arab Emirates
+413,Oman,288.0,Yemen
+414,Pakistan,2430.0,Afghanistan
+415,Pakistan,2912.0,India
+416,Pakistan,909.0,Iran
+417,Pakistan,23.0,People's Republic of China
+418,Palestine,11.0,Egypt
+419,Palestine,358.0,Israel
+420,Palestine,97.0,Jordan
+421,Panama,225.0,Colombia
+422,Panama,330.0,Costa Rica
+423,Papua New Guinea,820.0,Indonesia
+424,Paraguay,1880.0,Argentina
+425,Paraguay,750.0,Bolivia
+426,Paraguay,1290.0,Brazil
+427,People's Republic of China,76.0,Afghanistan
+428,People's Republic of China,470.0,Bhutan
+429,People's Republic of China,0.0,Hong Kong
+430,People's Republic of China,0.0,India
+431,People's Republic of China,0.0,Kashmir
+432,People's Republic of China,1533.0,Kazakhstan
+433,People's Republic of China,858.0,Kyrgyzstan
+434,People's Republic of China,423.0,Laos
+435,People's Republic of China,0.0,Macau
+436,People's Republic of China,4677.0,Mongolia
+437,People's Republic of China,2185.0,Myanmar
+438,People's Republic of China,1236.0,Nepal
+439,People's Republic of China,1416.0,North Korea
+440,People's Republic of China,0.0,Pakistan
+441,People's Republic of China,0.0,Russia
+442,People's Republic of China,0.0,SAR
+443,People's Republic of China,414.0,Tajikistan
+444,People's Republic of China,1281.0,Vietnam
+445,Peru,900.0,Bolivia
+446,Peru,1560.0,Brazil
+447,Peru,160.0,Chile
+448,Peru,1496.0,Colombia
+449,Peru,1420.0,Ecuador
+450,Poland,407.0,Belarus
+451,Poland,658.0,Czech Republic
+452,Poland,456.0,Germany
+453,Poland,91.0,Lithuania
+454,Poland,0.0,Russia
+455,Poland,444.0,Slovakia
+456,Poland,526.0,Ukraine
+457,Portugal,1214.0,Spain
+458,Qatar,60.0,Saudi Arabia
+459,Republic of the Congo,201.0,Angola
+460,Republic of the Congo,523.0,Cameroon
+461,Republic of the Congo,467.0,Central African Republic
+462,Republic of the Congo,2410.0,Democratic Republic of the Congo
+463,Republic of the Congo,1903.0,Gabon
+464,Romania,608.0,Bulgaria
+465,Romania,443.0,Hungary
+466,Romania,450.0,Moldova
+467,Romania,476.0,Serbia
+468,Romania,0.0,Ukraine
+469,Russia,241.0,Abkhazia
+470,Russia,284.0,Azerbaijan
+471,Russia,959.0,Belarus
+472,Russia,294.0,Estonia
+473,Russia,0.0,Finland
+474,Russia,723.0,Georgia
+475,Russia,6846.0,Kazakhstan
+476,Russia,217.0,Latvia
+477,Russia,0.0,Lithuania
+478,Russia,3485.0,Mongolia
+479,Russia,19.0,North Korea
+480,Russia,196.0,Norway
+481,Russia,0.0,People's Republic of China
+482,Russia,0.0,Poland
+483,Russia,74.0,South Ossetia
+484,Russia,1576.0,Ukraine
+485,Rwanda,290.0,Burundi
+486,Rwanda,217.0,Democratic Republic of the Congo
+487,Rwanda,217.0,Tanzania
+488,Rwanda,169.0,Uganda
+489,San Marino,39.0,Italy
+490,Saudi Arabia,814.0,Iraq
+491,Saudi Arabia,744.0,Jordan
+492,Saudi Arabia,222.0,Kuwait
+493,Saudi Arabia,676.0,Oman
+494,Saudi Arabia,60.0,Qatar
+495,Saudi Arabia,457.0,United Arab Emirates
+496,Saudi Arabia,1458.0,Yemen
+497,Senegal,330.0,Guinea
+498,Senegal,338.0,Guinea-Bissau
+499,Senegal,419.0,Mali
+500,Senegal,813.0,Mauritania
+501,Senegal,740.0,The Gambia
+502,Serbia,0.0,Bosnia and Herzegovina
+503,Serbia,318.0,Bulgaria
+504,Serbia,241.0,Croatia
+505,Serbia,151.0,Hungary
+506,Serbia,0.0,Kosovo
+507,Serbia,124.0,Montenegro
+508,Serbia,62.0,North Macedonia
+509,Serbia,476.0,Romania
+510,Sierra Leone,652.0,Guinea
+511,Sierra Leone,306.0,Liberia
+512,Slovakia,91.0,Austria
+513,Slovakia,215.0,Czech Republic
+514,Slovakia,677.0,Hungary
+515,Slovakia,444.0,Poland
+516,Slovakia,97.0,Ukraine
+517,Slovenia,330.0,Austria
+518,Slovenia,670.0,Croatia
+519,Slovenia,102.0,Hungary
+520,Slovenia,232.0,Italy
+521,Somalia,61.0,Djibouti
+522,Somalia,1600.0,Ethiopia
+523,Somalia,682.0,Kenya
+524,South Africa,1840.0,Botswana
+525,South Africa,430.0,Eswatini (Swaziland)
+526,South Africa,909.0,Lesotho
+527,South Africa,0.0,Mozambique
+528,South Africa,967.0,Namibia
+529,South Africa,225.0,Zimbabwe
+530,South Korea,238.0,North Korea
+531,South Ossetia,334.0,Georgia
+532,South Ossetia,74.0,Russia
+533,South Sudan,682.0,Central African Republic
+534,South Sudan,628.0,Democratic Republic of the Congo
+535,South Sudan,883.0,Ethiopia
+536,South Sudan,232.0,Kenya
+537,South Sudan,1937.0,Sudan
+538,South Sudan,435.0,Uganda
+539,Spain,64.0,Andorra
+540,Spain,0.0,France
+541,Spain,0.0,Gibraltar
+542,Spain,0.0,Morocco
+543,Spain,1214.0,Portugal
+544,Sudan,483.0,Central African Republic
+545,Sudan,1360.0,Chad
+546,Sudan,1273.0,Egypt
+547,Sudan,605.0,Eritrea
+548,Sudan,723.0,Ethiopia
+549,Sudan,383.0,Libya
+550,Sudan,1937.0,South Sudan
+551,Suriname,597.0,Brazil
+552,Suriname,510.0,France
+553,Suriname,0.0,French Guiana
+554,Suriname,600.0,Guyana
+555,Sweden,0.0,Åland Islands
+556,Sweden,0.0,Finland
+557,Sweden,1619.0,Norway
+558,Switzerland,0.0,Austria
+559,Switzerland,573.0,France
+560,Switzerland,0.0,Germany
+561,Switzerland,0.0,Italy
+562,Switzerland,41.0,Liechtenstein
+563,Syria,605.0,Iraq
+564,Syria,76.0,Israel
+565,Syria,375.0,Jordan
+566,Syria,375.0,Lebanon
+567,Syria,0.0,Turkey
+568,Tajikistan,1206.0,Afghanistan
+569,Tajikistan,0.0,Kyrgyzstan
+570,Tajikistan,414.0,People's Republic of China
+571,Tajikistan,0.0,Uzbekistan
+572,Tanzania,451.0,Burundi
+573,Tanzania,459.0,Democratic Republic of the Congo
+574,Tanzania,769.0,Kenya
+575,Tanzania,475.0,Malawi
+576,Tanzania,756.0,Mozambique
+577,Tanzania,217.0,Rwanda
+578,Tanzania,396.0,Uganda
+579,Tanzania,338.0,Zambia
+580,Thailand,803.0,Cambodia
+581,Thailand,1754.0,Laos
+582,Thailand,506.0,Malaysia
+583,Thailand,1800.0,Myanmar
+584,The Gambia,740.0,Senegal
+585,Togo,644.0,Benin
+586,Togo,126.0,Burkina Faso
+587,Togo,877.0,Ghana
+588,Tunisia,1010.0,Algeria
+589,Tunisia,459.0,Libya
+590,Turkey,268.0,Armenia
+591,Turkey,0.0,Azerbaijan
+592,Turkey,240.0,Bulgaria
+593,Turkey,252.0,Georgia
+594,Turkey,206.0,Greece
+595,Turkey,499.0,Iran
+596,Turkey,352.0,Iraq
+597,Turkey,0.0,Syria
+598,Turkmenistan,744.0,Afghanistan
+599,Turkmenistan,992.0,Iran
+600,Turkmenistan,379.0,Kazakhstan
+601,Turkmenistan,1621.0,Uzbekistan
+602,Uganda,765.0,Democratic Republic of the Congo
+603,Uganda,933.0,Kenya
+604,Uganda,169.0,Rwanda
+605,Uganda,435.0,South Sudan
+606,Uganda,396.0,Tanzania
+607,Ukraine,891.0,Belarus
+608,Ukraine,103.0,Hungary
+609,Ukraine,939.0,Moldova
+610,Ukraine,526.0,Poland
+611,Ukraine,0.0,Romania
+612,Ukraine,1576.0,Russia
+613,Ukraine,97.0,Slovakia
+614,United Arab Emirates,0.0,Oman
+615,United Arab Emirates,457.0,Saudi Arabia
+616,United States,0.0,Canada
+617,United States,3141.0,Mexico
+618,Uruguay,579.0,Argentina
+619,Uruguay,985.0,Brazil
+620,Uzbekistan,137.0,Afghanistan
+621,Uzbekistan,2203.0,Kazakhstan
+622,Uzbekistan,0.0,Kyrgyzstan
+623,Uzbekistan,0.0,Tajikistan
+624,Uzbekistan,1621.0,Turkmenistan
+625,Vatican City,3.0,Italy
+626,Venezuela,2200.0,Brazil
+627,Venezuela,2050.0,Colombia
+628,Venezuela,743.0,Guyana
+629,Vietnam,1228.0,Cambodia
+630,Vietnam,2130.0,Laos
+631,Vietnam,1281.0,People's Republic of China
+632,Western Sahara,42.0,Algeria
+633,Western Sahara,1561.0,Mauritania
+634,Western Sahara,443.0,Morocco
+635,Yemen,288.0,Oman
+636,Yemen,1458.0,Saudi Arabia
+637,Zambia,1110.0,Angola
+638,Zambia,0.0,Botswana
+639,Zambia,1930.0,Democratic Republic of the Congo
+640,Zambia,837.0,Malawi
+641,Zambia,419.0,Mozambique
+642,Zambia,233.0,Namibia
+643,Zambia,338.0,Tanzania
+644,Zambia,797.0,Zimbabwe
+645,Zimbabwe,813.0,Botswana
+646,Zimbabwe,1231.0,Mozambique
+647,Zimbabwe,225.0,South Africa
+648,Zimbabwe,797.0,Zambia
