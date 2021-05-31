@@ -1,0 +1,289 @@
+/** Yassine Ibhir and David Pizzolongo **/
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,300&display=swap');
+html, body {
+  height: 100%;
+  margin: 0px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight : bold;
+  min-width:1250px;
+}
+
+.content {
+  flex: 1 0 auto;
+  margin-top: 10px;
+  display:flex;
+  flex-direction: column;
+}
+
+footer {
+    flex-shrink: 0;
+    background-color:#131921;
+    display : flex;
+    justify-content :  space-between;
+    align-items : center;
+    width : 100%;
+    color : white;
+    font-weight : bold;
+}
+
+header{
+    background-color:#131921;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+li,span{
+    display: inline-block;
+    padding : 0px 20px;
+    margin: 2px;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.main_urls{
+ text-decoration: none;
+ padding: 0.2em;
+ border-bottom: 1px solid #ff4000;
+ color:White;
+
+}
+
+.delete-link{background-color:#ff453c; color:white;padding :0px 4px;border-radius:2em;}
+.add-link{background-color:#363b74;border-radius:2em;color:white;padding:0px 4px;}
+.detail-link{background-color:#d15f37; color:white;padding:0px 4px;border-radius:2em;}
+.update-link{background-color:#0080ff; color:white;padding:0px 4px;border-radius:2em;}
+.view-link {background-color: #363b74;color:white; padding:0px 4px;border-radius:2em;}
+.msg-link,#date-selector {color:lightgrey;}
+
+img {
+    width: 30px;
+}
+
+.horizontal-container{
+    display: flex;
+    align-items: center ;
+    vertical-align:middle;
+    justify-content: space-between;
+    border-bottom: 1px solid blue;
+    width: 100%;
+    margin:20px 0px;
+}
+
+.vertical-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%; /* or any value */
+    overflow-y: auto;
+}
+
+
+.align-vertical{
+    padding:0;
+    margin: 0;
+    vertical-align:middle;
+    width: 100%;
+}
+
+.messages-success{width: 100%;text-align:center;background-color: #06d6a0;}
+.messages-error{width: 100%;text-align:center;background-color: #e63946;}
+.messages-warning{width: 100%;text-align:center;background-color: #fca311;}
+.messages-info{width: 100%;text-align:center;background-color: #a8dadc;}
+#id_description{max-width:300px; max-height:20px;}
+
+p{
+    padding-left: 5px;
+}
+
+/** forms **/
+form{
+    padding-right: 7px;
+}
+
+.center-txt{margin:auto;}
+.form-container{width:40%; margin:auto;display:flex; flex-direction: column;align-items: center;}
+.form-content{display:flex; flex-direction: column; align-items: center; justify-content: space-evenly; }
+.helptext ul {display:flex; flex-direction: column;}
+.helptext {color:red; display:flex; flex-direction: column;align-items: center;}
+.form-container form {display:flex; flex-direction: column;align-items: center;}
+.btn-post button{ background-color:  #87CEFA ; border: 1px solid green; border-radius: 0.2em; }
+ nav .greet_user { color:white;}
+.pages-content {margin:auto;display:flex;align-items: center;}
+.projects-heading,.msg-header,.msg-txt{display: flex;align-items: center;justify-content: space-between;}
+
+/** user profile**/
+.user-profile {border: 1px solid #ff4000;display:flex;
+                align-items: center; justify-content: space-evenly;margin:auto;
+                width: 40%;padding: 10px;}
+#profile-img{ width:50px;height:50px;border-radius:50%;}
+
+/**messages**/
+.all-users{display:flex; flex-direction: column;align-items: center;}
+.user-notification:hover{background-color:lightgrey;}
+
+.notification{color:#00ff80;}
+.user-notification{display:flex;align-items: center;border: 1px solid lightgrey;width:40%;}
+.msg-header{display:flex;align-items: center;border: 1px solid lightgrey;width:40%;}
+.msg-container{display:flex; flex-direction: column;align-items: center;border: 1px solid lightgrey;width:40%;}
+.msg-info{display:flex;align-items: center;width:40%;}
+.msg-content-sender{font-weight: normal;overflow-wrap: break-word;word-wrap: break-word;max-width:37%;
+                background-color:lightgrey;border-radius:1em;}
+.msg-content-receiver{font-weight: normal;overflow-wrap: break-word;word-wrap: break-word;max-width:37%;
+                background-color:#99cccc;border-radius:1em;}
+.msg-txt{margin:auto;}
+#id_message,#id_comment{width: 30em;height:1.6em;margin-right:2px;}
+.btn-border{border: 1px solid lightgrey;background-color:#7193ff;}
+#send-msg{background-color:#7193ff;color:white;font-weight:bold;border: 1px solid #7193ff;width:100%;}
+#msg-img{width: 30px;height:30px;border-radius:50%;}
+.message-scroll-bar{
+  width: 510px;
+  height: 395px;
+  overflow: hidden;
+  overflow-y: scroll;
+  display:flex;
+  flex-direction:column;
+  border: 1px solid lightgrey;}
+/** project detail view styles **/
+#mainContainer {
+    width: 40%;
+    height: 110px;
+    font-size: 17px;
+    display: flex;
+    align-items: flex-start;
+}
+
+#mainContainer, #projectDescrip {
+    flex: 1;
+    padding: 10px;
+}
+
+#projectDescrip{
+    margin-left: 20px;
+}
+
+#ratingContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    padding: 7px;
+    color: #e60707;
+}
+
+#importantInfo{
+    text-decoration: underline;
+}
+
+.stars{
+    padding: 0px;
+    font-size: 1.5em;
+    color: #eeb209;
+}
+
+#newRating{
+    margin-top: 10px;
+}
+
+#rating{
+    color: darkgoldenrod;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#projImg{
+    height: 8.7em;
+    width: 8.7em;
+}
+
+#likePara{
+    color: #ff4000;
+}
+
+#buttonsDiv{
+    display: flex;
+}
+
+.buttons{
+    width: 49px;
+    height: 39px;
+    border-radius: 4.5px;
+    margin-top: 10px;
+}
+
+#ratingBtn{
+    background: #ffe000bf;
+    width: 100px;
+}
+
+#likeBtn, #ratingBtn {
+    background: #ffe000;
+    border: solid 1px #ff4000;
+    color: #ff4000;
+    margin-right: 2.5em;
+}
+
+#flagBtn{
+    background: #4e46cf;
+    border: solid 1px #ff00ba;
+    color: #ff00ba;
+}
+
+/** home page styles **/
+#projTitle, #home-page {
+    padding-left: 5px;
+}
+
+#home-description{
+    margin-top: 10px;
+}
+
+#viewProjBtn{
+    background: #0000ee;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+#viewLink{
+    color: white;
+}
+
+#viewLink:hover{
+    color: #c00000;
+}
+
+/** about page styles **/
+#contact-header{
+    text-decoration: underline;
+}
+
+#num-authors-para{
+    margin-top: 5em;
+    font-weight: normal;
+}
+
+.detail-container{display:flex;align-items: center;justify-content: space-evenly;}
+.comment-container{display:flex;align-items: center;flex-direction:column;justify-content: space-evenly;}
+.comment-scroll-bar{
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+  overflow-y: scroll;
+}

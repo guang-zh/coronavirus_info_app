@@ -1,0 +1,74 @@
+
+<!DOCTYPE HTML>
+<html lang="en-CA">
+	<head>
+		{% block heading %}
+		<meta charset="utf-8">
+		<meta name="description" content="Super View">
+		<meta name="author" content="Yibhir">
+		{% endblock heading %}
+
+		{% load static %}
+		<link 	rel ="stylesheet"
+				type="text/css"
+				href="{% static 'css/styles.css' %}">
+
+		<script defer src="{% static 'javascript/main.js' %}"></script>
+		<script defer src="{% static 'javascript/projectDetailSite.js' %}"></script>
+
+	  	<title>Academic Project</title>
+
+		{% block title %}
+	  	<title>Academic Project</title>
+		{% endblock title %}
+
+	</head>
+
+	<body>
+		<header>
+			<span><img src="{% static 'images/sun.png' %}"></span>
+			<nav>
+				<ul>
+
+					<li><a class="main_urls" href="{% url 'home' %}" title="services">Home</a></li>
+					<li><a class="main_urls"  href="{% url 'about' %}" title="About">About</a></li>
+					<li><a class="main_urls"  href="{% url 'users-list' %}" title="Users">Users</a></li>
+					<li><a class="main_urls"  href="{% url 'project-list' %}" title="Projects"> Projects</a></li>
+					{% if user.is_authenticated %}
+						<li><a class="main_urls"  href="{% url 'user-msgs' %}" title="Messages">Messages<sup class="msgs" ></sup></a></li>
+					{% endif %}
+				</ul>
+			</nav>
+			<nav>
+				{% if user.is_authenticated %}
+					<span class="greet_user" >Hello {{user}} </span>
+					<span><a class="main_urls"  href="{% url 'user-profile' %}" title="Profile">Profile</a></span>
+					<span><a  class="main_urls" href="{% url 'user-logout' %}" title="logout">Logout</a></span>
+				{% else %}
+					<span class="greet_user">Hello Guest</span>
+					<span><a  class="main_urls" href="{% url 'user-login' %}" title="Login">Login</a></span>
+					<span><a  class="main_urls" href="{% url 'user-register' %}" title="register">Register</a></span>
+				{% endif %}
+			</nav>
+
+		</header>
+		<main class="content">
+		   {% if messages %}
+				{% for msg in messages %}
+					<span class="messages-{{ msg.tags}}"> {{ msg }} </span>
+				{% endfor %}
+			{% endif %}
+
+			{% block content %}
+
+			{% endblock%}
+		</main>
+
+		<footer>
+			<p>Students</p>
+
+			<p>&copy; Copyright 2021 @<a class="main_urls"  href="https://www.dawsoncollege.qc.ca/">Dawson</a></s></p>
+
+		</footer>
+	</body>
+</html>
